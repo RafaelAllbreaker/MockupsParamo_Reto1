@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1019411791	TestAmbient			\Default Work Unit\Main\TestAmbient	
+	1097980931	TestEvent			\Default Work Unit\Main\TestEvent	
+	2444254063	TestClick			\Default Work Unit\Main\TestClick	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	182409909	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\New Sound SFX\Wwise Sine	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	347462792	Click_01	D:\Unreal\Proyectos\MockupsParamo_Reto1\MockupsParamo_Reto1_WwiseProject\.cache\Windows\SFX\41633__datasoundsample__littleclick_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Click_01		1280
+	848336915	Ambient_01	D:\Unreal\Proyectos\MockupsParamo_Reto1\MockupsParamo_Reto1_WwiseProject\.cache\Windows\SFX\170515__devlab__forest-ambient-01-loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_01		4570052
+

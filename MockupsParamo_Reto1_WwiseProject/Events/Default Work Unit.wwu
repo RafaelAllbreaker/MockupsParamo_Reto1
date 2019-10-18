@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EAC37183-7826-49D4-B86D-A25F1F1AFFD1}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{EAC37183-7826-49D4-B86D-A25F1F1AFFD1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Main" ID="{864DDB2D-61FD-4811-9D89-737EFC37BACA}" ShortID="633130057">
+					<ChildrenList>
+						<Event Name="TestAmbient" ID="{A3C2280F-884F-40EB-88A2-A9636CE83986}">
+							<ChildrenList>
+								<Action Name="" ID="{F6F984C0-CBCC-4A6B-902B-97ECAE0AE5D5}" ShortID="868708553">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Ambient_01" ID="{958190F5-834B-4BF5-B4BB-6691540D4AED}" WorkUnitID="{FD663EC9-AFFC-46DD-96EA-EDEE750C7D94}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="TestEvent" ID="{3AE4AEC3-E8EC-4964-B8CE-E1FBFF9588C5}">
+							<ChildrenList>
+								<Action Name="" ID="{D1C72DA1-F545-4A3E-8D5D-EBA0CD049DCF}" ShortID="655504218">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="New Sound SFX" ID="{4E2A80DD-2142-4AFC-9A5C-602BAF4EDBD9}" WorkUnitID="{FD663EC9-AFFC-46DD-96EA-EDEE750C7D94}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="TestClick" ID="{AC893121-6900-435C-8159-7FEC08C1031E}">
+							<ChildrenList>
+								<Action Name="" ID="{C69994D4-1A5D-43A5-B0DA-697BD5393822}" ShortID="510930317">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Click_01" ID="{29008ED1-D6FE-4F89-B2BE-914251F1F597}" WorkUnitID="{FD663EC9-AFFC-46DD-96EA-EDEE750C7D94}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
