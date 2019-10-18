@@ -22,7 +22,7 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private"
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
 /I ..\Intermediate\Build\Win64\UE4\Inc\InputCore
 /I Runtime
 /I Runtime\InputCore\Classes
@@ -285,16 +285,16 @@
 /I Developer\GameplayDebugger
 /I Developer\Settings\Public
 /I Developer\Settings
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source"
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
 /I Runtime\Engine\Private\PhysicsEngine
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar"
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
+/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
 /I ..\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay
 /I Runtime\HeadMountedDisplay\Public
 /I Runtime\HeadMountedDisplay
@@ -321,20 +321,20 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
 /D_HAS_EXCEPTIONS=0
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExample\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExample\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExample\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_10.cpp"
-/FI"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
-/Fo"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_10.cpp.obj"
+/FI"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_10.cpp"
+/FI"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
+/Fo"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_10.cpp.obj"
 /TP
 /GR-
 /W4

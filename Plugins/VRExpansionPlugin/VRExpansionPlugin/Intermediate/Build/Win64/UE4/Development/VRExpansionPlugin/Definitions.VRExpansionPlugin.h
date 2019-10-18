@@ -39,14 +39,14 @@
 #define PLATFORM_WINDOWS 1
 #define DEPTH_32_BIT_CONVERSION 0
 #define PROJECT_COPYRIGHT_STRING Fill out your copyright notice in the Description page of Project Settings.
-#define PROJECT_PRODUCT_NAME Virtual Reality BP Game Template
-#define PROJECT_PRODUCT_IDENTIFIER VRExpPluginExample
+#define PROJECT_PRODUCT_NAME UE4Game
+#define PROJECT_PRODUCT_IDENTIFIER MockupsParamo_Reto1
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define UE_ENGINE_DIRECTORY "../../../../../../../Program Files/Epic Games/UE_4.21/Engine/"
-#define ORIGINAL_FILE_NAME "VRExpPluginExample.exe"
+#define UE_ENGINE_DIRECTORY "C:/Epic Games/UE_4.21/Engine/"
+#define ORIGINAL_FILE_NAME "MockupsParamo_Reto1.exe"
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME VRExpPluginExample
+#define UE_PROJECT_NAME MockupsParamo_Reto1
 #define WITH_VR_EXPANSION 1
 #define WITH_GAMEPLAY_DEBUGGER 1
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
