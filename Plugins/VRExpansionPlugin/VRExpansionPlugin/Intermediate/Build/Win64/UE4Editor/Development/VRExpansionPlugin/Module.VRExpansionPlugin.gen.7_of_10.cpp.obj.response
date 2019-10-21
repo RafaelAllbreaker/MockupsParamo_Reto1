@@ -24,7 +24,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
@@ -425,16 +425,16 @@
 /I Runtime\AnimGraphRuntime\Public\BoneControllers
 /I Runtime\AnimGraphRuntime\Public\RBF
 /I ..\Plugins\Runtime\PhysXVehicles\Source\ThirdParty
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
 /I Runtime\Engine\Private\PhysicsEngine
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -458,18 +458,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Yu"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Fp"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.7_of_10.cpp"
-/FI"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
-/Fo"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.7_of_10.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"D:\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Yu"D:\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Fp"D:\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
+"D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.7_of_10.cpp"
+/FI"D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
+/Fo"D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.7_of_10.cpp.obj"
 /TP
 /GR-
 /W4

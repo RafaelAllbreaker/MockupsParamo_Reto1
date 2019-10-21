@@ -24,12 +24,12 @@
 /wd4838
 /we4668
 /I .
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Private
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Private
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source
 /I Runtime\Engine\Private\PhysicsEngine
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public
-/I D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public
+/I D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -432,18 +432,17 @@
 /I ..\Plugins\Runtime\Steam\SteamVR\Source\SteamVRController\Classes
 /I ..\Plugins\Runtime\Steam\SteamVR\Source\SteamVRController\Public
 /I ..\Plugins\Runtime\Steam\SteamVR\Source\SteamVRController
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Unreal\Proyectos\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp"
-/FI"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
-/Fo"D:\Unreal\Proyectos\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"D:\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\MockupsParamo_Reto1\Intermediate\Build\Win64\MockupsParamo_Reto1Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp"
+/FI"D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h"
+/Fo"D:\MockupsParamo_Reto1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
 /TP
 /GR-
 /W4
