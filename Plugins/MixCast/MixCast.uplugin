@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 8,
+	"VersionName": "2.0.0",
+	"FriendlyName": "MixCast SDK",
+	"Description": "MixCast SDK for Unreal",
+	"Category": "Virtual Reality",
+	"CreatedBy": "Blueprint Reality Inc",
+	"CreatedByURL": "https://mixcast.me",
+	"DocsURL": "https://mixcast.me/docs/develop/unreal",
+	"MarketplaceURL": "",
+	"SupportURL": "https://support.blueprintreality.com",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MixCast",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

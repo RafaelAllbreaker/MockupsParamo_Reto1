@@ -23,6 +23,10 @@
 		{
 			"Name": "VRExpansionPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "MixCast",
+			"Enabled": true
 		}
 	]
 }
